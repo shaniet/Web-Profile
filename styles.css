@@ -132,7 +132,7 @@ canvas{
   font-family: 'PT Mono', monospace;
   display:inline-block;
   position: relative;
-  margin-top: 20vh;
+  margin-top: 15%;
   border-right: 2px solid rgba(255,255,255,.75);
   white-space: nowrap;
   transform: translateY(-50%);
@@ -153,7 +153,7 @@ canvas{
     top: 20vh;
 
     margin: 0 auto;
-    margin-top: 55vh;
+    margin-top: 30%;
     border-right: 2px solid rgba(255,255,255,.75);
     white-space: nowrap;
     transform: translateY(-50%);
@@ -276,6 +276,7 @@ canvas{
   white-space: nowrap;
   transform: translateY(-50%);
   display:inline-block;
+  margin-right: 50%;
   border-right:10px solid #fff;
   font-weight: 100;
   text-align: center;
