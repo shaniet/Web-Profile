@@ -281,7 +281,7 @@ canvas{
 
 /* Animation */
 .anim-typewriter2{
-  animation: typewriter2 1s steps(44) 1s 1 normal both,
+  animation: typewriter2 1s steps(44) .5s 1 normal both,
              blinkTextCursor2 1s steps(44) infinite normal;
 }
 
